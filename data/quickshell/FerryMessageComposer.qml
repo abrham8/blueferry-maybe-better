@@ -14,13 +14,13 @@ ScrollView {
   signal accepted()
 
   Layout.minimumWidth: 0
-  Layout.minimumHeight: control.ferryTheme.scaled(36)
+  Layout.minimumHeight: control.ferryTheme.scaled(84)
   Layout.preferredHeight: Math.min(
     Math.max(editor.contentHeight + editor.topPadding + editor.bottomPadding + 2,
              Layout.minimumHeight),
     Layout.maximumHeight
   )
-  Layout.maximumHeight: control.ferryTheme.scaled(144)
+  Layout.maximumHeight: control.ferryTheme.scaled(204)
   clip: true
   ScrollBar.horizontal.policy: ScrollBar.AlwaysOff
   ScrollBar.vertical.policy: ScrollBar.AsNeeded
