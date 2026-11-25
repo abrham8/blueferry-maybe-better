@@ -1462,3 +1462,11 @@ Shatunovsky. Parts of the optional oFono call controller are adapted from
 Bradley Harmon, under GPL-2.0-or-later.
 
 BlueFerry is licensed under [GPL-2.0-or-later](LICENSE).
+
+## What's New
+
+### Messages workspace refresh
+
+- Updated the graphical message composers with a taller typing area inspired by the Relay Figma redesign.
+- Preserved existing Contacts, Calls, Notifications, and Photos features.
+- The terminal client remains unchanged.
