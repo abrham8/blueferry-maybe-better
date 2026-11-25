@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### Changed
+
+- Begin the Relay-inspired Messages workspace refresh across GTK, Qt, and Quickshell graphical clients. Increase composer space while preserving existing features; leave the terminal client unchanged.
+
+## Unreleased
+
 ### Added
 
 - GTK: **Quick Reply from Message Popups** (Settings › Notifications ›
