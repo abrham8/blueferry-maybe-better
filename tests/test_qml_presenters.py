@@ -3892,7 +3892,7 @@ Window {
   readonly property real editorWidth: composer.contentChildren[0].width
   readonly property int lineCount: composer.contentChildren[0].lineCount
   readonly property real scrollHeight: composer.contentItem.contentHeight
-  readonly property real maxComposerHeight: theme.scaled(144)
+  readonly property real maxComposerHeight: theme.scaled(204)
 }''', QUrl.fromLocalFile(str(ROOT / "data/quickshell/composer-test.qml")))
     window = component.create()
     try:
