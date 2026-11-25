@@ -4,6 +4,15 @@
 
 Use your iPhone's messages on Linux over Bluetooth.
 
+## What's New
+
+### Messages workspace refresh
+
+- Updated the graphical message composers with a taller typing area inspired by the Relay Figma redesign.
+- Preserved existing Contacts, Calls, Notifications, and Photos features.
+- The terminal client remains unchanged.
+
+
 <p align="center">
   <img src="ferry.jpg" width="320" alt="Blue Star ferry at Rhodes">
 </p>
@@ -1463,10 +1472,3 @@ Bradley Harmon, under GPL-2.0-or-later.
 
 BlueFerry is licensed under [GPL-2.0-or-later](LICENSE).
 
-## What's New
-
-### Messages workspace refresh
-
-- Updated the graphical message composers with a taller typing area inspired by the Relay Figma redesign.
-- Preserved existing Contacts, Calls, Notifications, and Photos features.
-- The terminal client remains unchanged.
