@@ -14,7 +14,7 @@ Controls.ScrollView {
 
     Layout.fillWidth: true
     Layout.minimumWidth: 0
-    Layout.minimumHeight: Kirigami.Units.gridUnit * 2.5
+    Layout.minimumHeight: Kirigami.Units.gridUnit * 5.5
     Layout.preferredHeight: Math.min(
         Math.max(
             editor.contentHeight + editor.topPadding + editor.bottomPadding + 2,
@@ -22,7 +22,7 @@ Controls.ScrollView {
         ),
         Layout.maximumHeight
     )
-    Layout.maximumHeight: Kirigami.Units.gridUnit * 8
+    Layout.maximumHeight: Kirigami.Units.gridUnit * 12
     clip: true
     Controls.ScrollBar.horizontal.policy: Controls.ScrollBar.AlwaysOff
     Controls.ScrollBar.vertical.policy: Controls.ScrollBar.AsNeeded

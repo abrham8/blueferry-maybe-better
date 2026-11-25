@@ -48,8 +48,8 @@ class MessageComposer(Gtk.ScrolledWindow):
         super().__init__(
             hscrollbar_policy=Gtk.PolicyType.NEVER,
             vscrollbar_policy=Gtk.PolicyType.AUTOMATIC,
-            min_content_height=44,
-            max_content_height=150,
+            min_content_height=84,
+            max_content_height=204,
             propagate_natural_height=True,
             hexpand=True,
         )
